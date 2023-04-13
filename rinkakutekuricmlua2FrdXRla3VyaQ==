@@ -1,2 +1,3 @@
-vless://2bb3099e-5db3-4e76-e8fe-b47a4130f142@mci.hostgozarr.com:443?path=%2Fdownloader%2F4367&security=tls&encryption=none&host=hostgozar3.hostgozarr.com&type=ws&sni=XS3AFVJ5hostgozar3.hostgozarr.com#rinkakutekurimci
-vless://2bb3099e-5db3-4e76-e8fe-b47a4130f142@mtn.hostgozarr.com:443?path=%2Fdownloader%2F4367&security=tls&encryption=none&host=hostgozar3.hostgozarr.com&type=ws&sni=C48BZ2XChostgozar3.hostgozarr.com#rinkakutekurimtn
+vless://2bb3099e-5db3-4e76-e8fe-b47a4130f142@mci.hostgozar.store:443?path=%2Fdownloader%2F4367&security=tls&encryption=none&host=hostgozar3.hostgozar.store&type=ws&sni=XS3AFVJ5hostgozar3.hostgozar.store#rinkakutekurimci
+
+vless://2bb3099e-5db3-4e76-e8fe-b47a4130f142@mtn.hostgozar.store:443?path=%2Fdownloader%2F4367&security=tls&encryption=none&host=hostgozar3.hostgozar.store&type=ws&sni=C48BZ2XChostgozar3.hostgozar.store#rinkakutekurimtn
