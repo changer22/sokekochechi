@@ -1,2 +1,3 @@
-vless://cd6ba3bb-61ba-4b60-bcc5-a7c4265d1337@mci.hostgozarr.com:443?path=%2Fdownloader%2F5484&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=0WKVKBUThostgozar1.hostgozarr.com#Payambndmci
-vless://cd6ba3bb-61ba-4b60-bcc5-a7c4265d1337@mtn.hostgozarr.com:443?path=%2Fdownloader%2F5484&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=1M5EEIDUhostgozar1.hostgozarr.com#Payambndmtn
+vless://cd6ba3bb-61ba-4b60-bcc5-a7c4265d1337@mci.hostgozar.store:443?path=%2Fdownloader%2F5484&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=0WKVKBUThostgozar1.hostgozar.store#Payambndmci
+
+vless://cd6ba3bb-61ba-4b60-bcc5-a7c4265d1337@mtn.hostgozar.store:443?path=%2Fdownloader%2F5484&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=1M5EEIDUhostgozar1.hostgozar.store#Payambndmtn

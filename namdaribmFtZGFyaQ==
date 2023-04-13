@@ -1,2 +1,3 @@
-vless://9e51e208-382d-4b3b-ca9e-5c7b602364f8@mci.hostgozarr.com:443?path=%2Fdownloader%2F5776&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=KIQS9JIGhostgozar1.hostgozarr.com#namdarimci
-vless://9e51e208-382d-4b3b-ca9e-5c7b602364f8@mtn.hostgozarr.com:443?path=%2Fdownloader%2F5776&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=U05V030Rhostgozar1.hostgozarr.com#namdarimtn
+vless://9e51e208-382d-4b3b-ca9e-5c7b602364f8@mci.hostgozar.store:443?path=%2Fdownloader%2F5776&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=KIQS9JIGhostgozar1.hostgozar.store#namdarimci
+
+vless://9e51e208-382d-4b3b-ca9e-5c7b602364f8@mtn.hostgozar.store:443?path=%2Fdownloader%2F5776&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=U05V030Rhostgozar1.hostgozar.store#namdarimtn

@@ -1,2 +1,3 @@
-vless://10d5b854-e459-41ed-f2bf-d77803fd12d6@mci.hostgozarr.com:443?path=%2Fdownloader%2F3418&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=J7XGPF5Thostgozar1.hostgozarr.com#ramin_saberimci
-vless://10d5b854-e459-41ed-f2bf-d77803fd12d6@mtn.hostgozarr.com:443?path=%2Fdownloader%2F3418&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=C5GY2VVMhostgozar1.hostgozarr.com#ramin_saberimtn
+vless://10d5b854-e459-41ed-f2bf-d77803fd12d6@mci.hostgozar.store:443?path=%2Fdownloader%2F3418&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=J7XGPF5Thostgozar1.hostgozar.store#ramin_saberimci
+
+vless://10d5b854-e459-41ed-f2bf-d77803fd12d6@mtn.hostgozar.store:443?path=%2Fdownloader%2F3418&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=C5GY2VVMhostgozar1.hostgozar.store#ramin_saberimtn
