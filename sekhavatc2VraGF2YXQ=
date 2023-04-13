@@ -1,2 +1,3 @@
-vless://181d93ad-f95b-4964-dca6-d0c67dfb707e@mci.hostgozarr.com:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=BX2S64K8hostgozar2.hostgozarr.com#sekhavatmci
-vless://181d93ad-f95b-4964-dca6-d0c67dfb707e@mtn.hostgozarr.com:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=C0826A08hostgozar2.hostgozarr.com#sekhavatmtn
+vless://181d93ad-f95b-4964-dca6-d0c67dfb707e@mci.hostgozar.store:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=BX2S64K8hostgozar2.hostgozar.store#sekhavatmci
+
+vless://181d93ad-f95b-4964-dca6-d0c67dfb707e@mtn.hostgozar.store:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=C0826A08hostgozar2.hostgozar.store#sekhavatmtn

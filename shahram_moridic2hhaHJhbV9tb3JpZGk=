@@ -1,2 +1,3 @@
-vless://bdc29dc0-6104-4b16-b245-ffab4d505d1d@mci.hostgozarr.com:443?path=%2Fdownloader%2F4251&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=BHCHULE0hostgozar2.hostgozarr.com#shahram_moridimci
-vless://bdc29dc0-6104-4b16-b245-ffab4d505d1d@mtn.hostgozarr.com:443?path=%2Fdownloader%2F4251&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=AC7VCI68hostgozar2.hostgozarr.com#shahram_moridimtn
+vless://bdc29dc0-6104-4b16-b245-ffab4d505d1d@mci.hostgozar.store:443?path=%2Fdownloader%2F4251&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=BHCHULE0hostgozar2.hostgozar.store#shahram_moridimci
+
+vless://bdc29dc0-6104-4b16-b245-ffab4d505d1d@mtn.hostgozar.store:443?path=%2Fdownloader%2F4251&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=AC7VCI68hostgozar2.hostgozar.store#shahram_moridimtn

@@ -1,2 +1,3 @@
-vless://264e794f-5631-4b6f-860f-133a2f99c32f@mci.hostgozarr.com:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=5IGCL9JMhostgozar2.hostgozarr.com#danialmci
-vless://264e794f-5631-4b6f-860f-133a2f99c32f@mtn.hostgozarr.com:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=6JMDYC07hostgozar2.hostgozarr.com#danialmtn
+vless://264e794f-5631-4b6f-860f-133a2f99c32f@mci.hostgozar.store:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=5IGCL9JMhostgozar2.hostgozar.store#danialmci
+
+vless://264e794f-5631-4b6f-860f-133a2f99c32f@mtn.hostgozar.store:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=6JMDYC07hostgozar2.hostgozar.store#danialmtn

@@ -1,2 +1,3 @@
-vless://a1d7e000-8e3f-4a55-e99d-dc054c23c1b2@mci.hostgozarr.com:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=AL50S2F7hostgozar2.hostgozarr.com#leilymci
-vless://a1d7e000-8e3f-4a55-e99d-dc054c23c1b2@mtn.hostgozarr.com:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=T0XJGDRYhostgozar2.hostgozarr.com#leilymtn
+vless://a1d7e000-8e3f-4a55-e99d-dc054c23c1b2@mci.hostgozar.store:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=AL50S2F7hostgozar2.hostgozar.store#leilymci
+
+vless://a1d7e000-8e3f-4a55-e99d-dc054c23c1b2@mtn.hostgozar.store:443?path=%2Fdownloader%2F3355&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=T0XJGDRYhostgozar2.hostgozar.store#leilymtn

@@ -1,2 +1,3 @@
-vless://1de3c948-fd09-41f9-d811-44149b707113@mci.hostgozarr.com:443?path=%2Fdownloader%2F4113&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=CD3CTAZ3hostgozar2.hostgozarr.com#mariyamci
-vless://1de3c948-fd09-41f9-d811-44149b707113@mtn.hostgozarr.com:443?path=%2Fdownloader%2F4113&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=LEGAWI4Ohostgozar2.hostgozarr.com#mariyamtn
+vless://1de3c948-fd09-41f9-d811-44149b707113@mci.hostgozar.store:443?path=%2Fdownloader%2F4113&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=CD3CTAZ3hostgozar2.hostgozar.store#mariyamci
+
+vless://1de3c948-fd09-41f9-d811-44149b707113@mtn.hostgozar.store:443?path=%2Fdownloader%2F4113&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=LEGAWI4Ohostgozar2.hostgozar.store#mariyamtn

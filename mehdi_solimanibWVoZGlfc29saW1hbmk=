@@ -1,2 +1,3 @@
-vless://774e458b-f052-410f-eb0f-bf20581a861b@mci.hostgozarr.com:443?path=%2Fdownloader%2F5708&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=FTTDBGL6hostgozar2.hostgozarr.com#mehdi_solimanimci
-vless://774e458b-f052-410f-eb0f-bf20581a861b@mtn.hostgozarr.com:443?path=%2Fdownloader%2F5708&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=2MTVMQAYhostgozar2.hostgozarr.com#mehdi_solimanimtn
+vless://774e458b-f052-410f-eb0f-bf20581a861b@mci.hostgozar.store:443?path=%2Fdownloader%2F5708&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=FTTDBGL6hostgozar2.hostgozar.store#mehdi_solimanimci
+
+vless://774e458b-f052-410f-eb0f-bf20581a861b@mtn.hostgozar.store:443?path=%2Fdownloader%2F5708&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=2MTVMQAYhostgozar2.hostgozar.store#mehdi_solimanimtn

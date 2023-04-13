@@ -1,2 +1,3 @@
-vless://c16580f2-38bf-4836-90ea-73ffee12b866@mci.hostgozarr.com:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=5SU7BOE0hostgozar2.hostgozarr.com#nilofarmci
-vless://c16580f2-38bf-4836-90ea-73ffee12b866@mtn.hostgozarr.com:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozarr.com&type=ws&sni=QRY623EGhostgozar2.hostgozarr.com#nilofarmtn
+vless://c16580f2-38bf-4836-90ea-73ffee12b866@mci.hostgozar.store:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=5SU7BOE0hostgozar2.hostgozar.store#nilofarmci
+
+vless://c16580f2-38bf-4836-90ea-73ffee12b866@mtn.hostgozar.store:443?path=%2Fdownloader%2F3218&security=tls&encryption=none&host=hostgozar2.hostgozar.store&type=ws&sni=QRY623EGhostgozar2.hostgozar.store#nilofarmtn
