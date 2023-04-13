@@ -1,2 +1,3 @@
-vless://3f9e91d6-fe8e-4de5-9737-7201d9402a52@mci.hostgozarr.com:443?path=%2Fdownloader%2F5909&security=tls&encryption=none&host=hostgozar3.hostgozarr.com&type=ws&sni=Q9ZEP1D4hostgozar3.hostgozarr.com#javadbagherimci
-vless://3f9e91d6-fe8e-4de5-9737-7201d9402a52@mtn.hostgozarr.com:443?path=%2Fdownloader%2F5909&security=tls&encryption=none&host=hostgozar3.hostgozarr.com&type=ws&sni=DD0XSLQMhostgozar3.hostgozarr.com#javadbagherimtn
+vless://3f9e91d6-fe8e-4de5-9737-7201d9402a52@mci.hostgozar.store:443?path=%2Fdownloader%2F5909&security=tls&encryption=none&host=hostgozar3.hostgozar.store&type=ws&sni=Q9ZEP1D4hostgozar3.hostgozar.store#javadbagherimci
+
+vless://3f9e91d6-fe8e-4de5-9737-7201d9402a52@mtn.hostgozar.store:443?path=%2Fdownloader%2F5909&security=tls&encryption=none&host=hostgozar3.hostgozar.store&type=ws&sni=DD0XSLQMhostgozar3.hostgozar.store#javadbagherimtn
