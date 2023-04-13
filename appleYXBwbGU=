@@ -1,2 +1,3 @@
-vless://a1d60cd1-26e8-47da-97b9-86584f8ce0a6@mci.hostgozarr.com:443?path=%2Fdownloader%2F1041&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=9YC07A73hostgozar1.hostgozarr.com#applemci
-vless://a1d60cd1-26e8-47da-97b9-86584f8ce0a6@mtn.hostgozarr.com:443?path=%2Fdownloader%2F1041&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=IU7ERGERhostgozar1.hostgozarr.com#applemtn
+vless://a1d60cd1-26e8-47da-97b9-86584f8ce0a6@mci.hostgozar.store:443?path=%2Fdownloader%2F1041&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=9YC07A73hostgozar1.hostgozar.store#applemci
+
+vless://a1d60cd1-26e8-47da-97b9-86584f8ce0a6@mtn.hostgozar.store:443?path=%2Fdownloader%2F1041&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=IU7ERGERhostgozar1.hostgozar.store#applemtn

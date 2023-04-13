@@ -1,2 +1,3 @@
-vless://b75017ac-e751-4bc3-e33c-a54df7a092f1@mci.hostgozarr.com:443?path=%2Fdownloader%2F2973&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=3JIICROQhostgozar1.hostgozarr.com#juventusmci
-vless://b75017ac-e751-4bc3-e33c-a54df7a092f1@mtn.hostgozarr.com:443?path=%2Fdownloader%2F2973&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=7SC9QS9Chostgozar1.hostgozarr.com#juventusmtn
+vless://b75017ac-e751-4bc3-e33c-a54df7a092f1@mci.hostgozar.store:443?path=%2Fdownloader%2F2973&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=3JIICROQhostgozar1.hostgozar.store#juventusmci
+
+vless://b75017ac-e751-4bc3-e33c-a54df7a092f1@mtn.hostgozar.store:443?path=%2Fdownloader%2F2973&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=7SC9QS9Chostgozar1.hostgozar.store#juventusmtn

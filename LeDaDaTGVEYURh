@@ -1,2 +1,3 @@
-vless://eac5d3aa-151a-4d29-fb56-cbad376246d2@mci.hostgozarr.com:443?path=%2Fdownloader%2F2105&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=S13VG725hostgozar1.hostgozarr.com#LeDaDamci
-vless://eac5d3aa-151a-4d29-fb56-cbad376246d2@mtn.hostgozarr.com:443?path=%2Fdownloader%2F2105&security=tls&encryption=none&host=hostgozar1.hostgozarr.com&type=ws&sni=Q795IPJ2hostgozar1.hostgozarr.com#LeDaDamtn
+vless://eac5d3aa-151a-4d29-fb56-cbad376246d2@mci.hostgozar.store:443?path=%2Fdownloader%2F2105&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=S13VG725hostgozar1.hostgozar.store#LeDaDamci
+
+vless://eac5d3aa-151a-4d29-fb56-cbad376246d2@mtn.hostgozar.store:443?path=%2Fdownloader%2F2105&security=tls&encryption=none&host=hostgozar1.hostgozar.store&type=ws&sni=Q795IPJ2hostgozar1.hostgozar.store#LeDaDamtn
