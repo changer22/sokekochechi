@@ -1,0 +1,4 @@
+vless://19d137e3-097f-4f56-823e-919d410dd67f@mci.hostgozar.store:443?path=%2Fdownloader%2F27132&security=tls&encryption=none&host=hostgozar22.hostgozar.store&type=ws&sni=O6GZKP3Bhostgozar22.hostgozar.store#Host_131mci
+vless://19d137e3-097f-4f56-823e-919d410dd67f@mtn.hostgozar.store:443?path=%2Fdownloader%2F27132&security=tls&encryption=none&host=hostgozar22.hostgozar.store&type=ws&sni=OUZ9FECMhostgozar22.hostgozar.store#Host_131mtn
+vless://19d137e3-097f-4f56-823e-919d410dd67f@rtl.hostgozar.store:443?path=%2Fdownloader%2F27132&security=tls&encryption=none&host=hostgozar22.hostgozar.store&type=ws&sni=0Q25ZGIMhostgozar22.hostgozar.store#Host_131rtl
+vless://19d137e3-097f-4f56-823e-919d410dd67f@adsl.hostgozar.store:443?path=%2Fdownloader%2F27132&security=tls&encryption=none&host=hostgozar22.hostgozar.store&type=ws&sni=Q3YMHST8hostgozar22.hostgozar.store#Host_131adsl
